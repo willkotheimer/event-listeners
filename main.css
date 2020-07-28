@@ -1,0 +1,10 @@
+.img-container {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+
+}
+
+#person-buttons {
+    margin-bottom: 10px;
+}
