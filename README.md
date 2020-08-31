@@ -1,7 +1,7 @@
 Pies Site (Event Listeners)
 
 ## Motivation
-The motivation behind this was to a menu to use event listeners in javascript.
+The motivation behind this was to a menu to use event listeners in javascript, but the most important aspect of this is a single page app that can change content without reloading the page.
 
 ## Build status
 Prototype - This is a very rough draft, and would need a lot more styling and work to be completed.
@@ -22,7 +22,7 @@ https://github.com/willkotheimer/event-listeners/blob/master/pies_site.png
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fce0d6e6-bd01-4c8a-a62a-a591f6b171af/deploy-status)](https://app.netlify.com/sites/piesmenu/deploys)
 
 ## Features
-This site features a personal projects, and some drag and drop functionality with the employment section.
+This site features a single page app for sorting a pie menu by category/type.
 
 ## Code Example
 ```
